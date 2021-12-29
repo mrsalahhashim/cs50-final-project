@@ -1,6 +1,6 @@
 Hello CS50
 
-My name is Salah Eldeen Hashim & I'm from Sudan, Africa 
+My name is Salah Eldeen Hashim & I'm from Sudan
 and this is my project 
 
 I Call it, My Movie Gallary
