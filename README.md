@@ -13,8 +13,4 @@ The website represents the movies i like to watch all the time.
 
 Hope you like it
 
-Here is the link to the full project
-https://drive.google.com/file/d/1J02LWUmExTotNBMA3JAxcdlFPNx1Q0Jm/view?usp=sharing
-
-
 Thank you 
